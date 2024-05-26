@@ -1,7 +1,7 @@
 # Custom hors langue
 
 [ejs.app]
-title = "PSU Launcher"
+title = "PSU & DD collab Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/PlaySorbonne/PSU-Launcher/"
@@ -15,6 +15,6 @@ sourceGithubLink = "https://github.com/PlaySorbonne/PSU-Launcher/"
 supportLink = "https://github.com/PlaySorbonne/PSU-Launcher/issues"
 
 [ejs.welcome]
-welcomeHeader = "Bienvenue sur le lanceur PSU"
-welcomeDescription = "Nous sommes Play Sorbonne Université, l'association de jeux des étudiantes et étudiants de Sorbonne Université. Notre objectif est de partager la passion des jeux de plateau et des jeux vidéo et de faire découvrir le jeu sous toutes ses formes ! Si cela te plaît, alors bienvenue chez toi !"
+welcomeHeader = "Bienvenue sur le lanceur du serveur PSU et Dideros et Dragons"
+welcomeDescription = ":3 :3 :3"
 welcomeDescCTA = "Tu n'es qu'à quelques clics du serveur PSU !"

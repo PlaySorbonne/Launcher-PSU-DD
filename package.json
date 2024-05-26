@@ -1,11 +1,11 @@
 {
-  "name": "psulauncher",
-  "version": "0.9.2",
-  "productName": "PSU-Launcher",
-  "description": "Le launcher officiel de PSU",
+  "name": "psuddlauncher",
+  "version": "0.0.1",
+  "productName": "PSU-DDLauncher",
+  "description": "Le Launcher Minecraft pour le serveur minecraft collab PSU & Didero et Dragons ",
   "author": "FX Drouard (https://github.com/FX-Drouard/)",
   "license": "MIT",
-  "homepage": "https://github.com/PlaySorbonne/PSU-Launcher",
+  "homepage": "https://github.com/PlaySorbonne/Launcher-PSU-DD",
   "bugs": {
     "url": "https://github.com/PlaySorbonne/PSU-Launcher/issues"
   },
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PlaySorbonne/PSU-Launcher"
+    "url": "git+https://github.com/PlaySorbonne/Launcher-PSU-DD"
   }
 }

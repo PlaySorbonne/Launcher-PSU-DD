@@ -1,5 +1,5 @@
 # PSU-Launcher
-Le Launcher Minecraft de l'asso PlaySorbonne Université
+Le Launcher Minecraft pour le serveur minecraft collab PSU & Didero et Dragons 
 
 ## Téléchargement et utilisation
 Pour télécharger le launcher [cliquez ici](https://github.com/PlaySorbonne/PSU-Launcher/releases/latest) 
